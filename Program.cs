@@ -4,7 +4,7 @@ using DeerClassification.Models;
 
 string folder = Path.Combine(Environment.CurrentDirectory, "./Assets");
 string imageFolder = Path.Combine(folder, "Training");
-string modelFile = Path.Combine(folder, "tensorflow.pb");
+string modelFile = Path.Combine(folder, "model.pb");
 string trainingFile = Path.Combine(folder, "model.tsv");
 string testingFile = Path.Combine(folder, "test.tsv");
 
@@ -44,7 +44,7 @@ ITransformer GenerateModel(MLContext mlContext)
             .Append(mlContext.Transforms.Conversion.MapValueToKey("LabelKey", "Label"))
             .Append(mlContext.MulticlassClassification.Trainers.LbfgsMaximumEntropy("LabelKey",
                 "softmax2_pre_activation"))
-            .Append(mlContext.Transforms.Conversion.MapKeyToValue("PredictedLabelKey", "PredictedLabel"))
+            .Append(mlContext.Transforms.Conversion.MapKeyToValue("PredictedLabelValue", "PredictedLabel"))
             .AppendCacheCheckpoint(mlContext);
 
     IDataView training = mlContext.Data.LoadFromTextFile<ImageData>(path: trainingFile, hasHeader: false);
