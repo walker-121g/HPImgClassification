@@ -1,0 +1,289 @@
+A Unspecified injury of left thigh, initial encounter
+  S79929A Unspecified injury of unspecified thigh, initial encounter
+  S82101A Unspecified fracture of upper end of right tibia, initial encounter for closed fracture
+  S82101B Unspecified fracture of upper end of right tibia, initial encounter for open fracture type I or II
+  S82101C Unspecified fracture of upper end of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82102A Unspecified fracture of upper end of left tibia, initial encounter for closed fracture
+  S82102B Unspecified fracture of upper end of left tibia, initial encounter for open fracture type I or II
+  S82102C Unspecified fracture of upper end of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82109A Unspecified fracture of upper end of unspecified tibia, initial encounter for closed fracture
+  S82109B Unspecified fracture of upper end of unspecified tibia, initial encounter for open fracture type I or II
+  S82109C Unspecified fracture of upper end of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82111A Displaced fracture of right tibial spine, initial encounter for closed fracture
+  S82111B Displaced fracture of right tibial spine, initial encounter for open fracture type I or II
+  S82111C Displaced fracture of right tibial spine, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82112A Displaced fracture of left tibial spine, initial encounter for closed fracture
+  S82112B Displaced fracture of left tibial spine, initial encounter for open fracture type I or II
+  S82112C Displaced fracture of left tibial spine, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82113A Displaced fracture of unspecified tibial spine, initial encounter for closed fracture
+  S82113B Displaced fracture of unspecified tibial spine, initial encounter for open fracture type I or II
+  S82113C Displaced fracture of unspecified tibial spine, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82114A Nondisplaced fracture of right tibial spine, initial encounter for closed fracture
+  S82114B Nondisplaced fracture of right tibial spine, initial encounter for open fracture type I or II
+  S82114C Nondisplaced fracture of right tibial spine, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82115A Nondisplaced fracture of left tibial spine, initial encounter for closed fracture
+  S82115B Nondisplaced fracture of left tibial spine, initial encounter for open fracture type I or II
+  S82115C Nondisplaced fracture of left tibial spine, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82116A Nondisplaced fracture of unspecified tibial spine, initial encounter for closed fracture
+  S82116B Nondisplaced fracture of unspecified tibial spine, initial encounter for open fracture type I or II
+  S82116C Nondisplaced fracture of unspecified tibial spine, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82121A Displaced fracture of lateral condyle of right tibia, initial encounter for closed fracture
+  S82121B Displaced fracture of lateral condyle of right tibia, initial encounter for open fracture type I or II
+  S82121C Displaced fracture of lateral condyle of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82122A Displaced fracture of lateral condyle of left tibia, initial encounter for closed fracture
+  S82122B Displaced fracture of lateral condyle of left tibia, initial encounter for open fracture type I or II
+  S82122C Displaced fracture of lateral condyle of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82123A Displaced fracture of lateral condyle of unspecified tibia, initial encounter for closed fracture
+  S82123B Displaced fracture of lateral condyle of unspecified tibia, initial encounter for open fracture type I or II
+  S82123C Displaced fracture of lateral condyle of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82124A Nondisplaced fracture of lateral condyle of right tibia, initial encounter for closed fracture
+  S82124B Nondisplaced fracture of lateral condyle of right tibia, initial encounter for open fracture type I or II
+  S82124C Nondisplaced fracture of lateral condyle of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82125A Nondisplaced fracture of lateral condyle of left tibia, initial encounter for closed fracture
+  S82125B Nondisplaced fracture of lateral condyle of left tibia, initial encounter for open fracture type I or II
+  S82125C Nondisplaced fracture of lateral condyle of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82126A Nondisplaced fracture of lateral condyle of unspecified tibia, initial encounter for closed fracture
+  S82126B Nondisplaced fracture of lateral condyle of unspecified tibia, initial encounter for open fracture type I or II
+  S82126C Nondisplaced fracture of lateral condyle of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82131A Displaced fracture of medial condyle of right tibia, initial encounter for closed fracture
+  S82131B Displaced fracture of medial condyle of right tibia, initial encounter for open fracture type I or II
+  S82131C Displaced fracture of medial condyle of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82132A Displaced fracture of medial condyle of left tibia, initial encounter for closed fracture
+  S82132B Displaced fracture of medial condyle of left tibia, initial encounter for open fracture type I or II
+  S82132C Displaced fracture of medial condyle of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82133A Displaced fracture of medial condyle of unspecified tibia, initial encounter for closed fracture
+  S82133B Displaced fracture of medial condyle of unspecified tibia, initial encounter for open fracture type I or II
+  S82133C Displaced fracture of medial condyle of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82134A Nondisplaced fracture of medial condyle of right tibia, initial encounter for closed fracture
+  S82134B Nondisplaced fracture of medial condyle of right tibia, initial encounter for open fracture type I or II
+  S82134C Nondisplaced fracture of medial condyle of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82135A Nondisplaced fracture of medial condyle of left tibia, initial encounter for closed fracture
+  S82135B Nondisplaced fracture of medial condyle of left tibia, initial encounter for open fracture type I or II
+  S82135C Nondisplaced fracture of medial condyle of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82136A Nondisplaced fracture of medial condyle of unspecified tibia, initial encounter for closed fracture
+  S82136B Nondisplaced fracture of medial condyle of unspecified tibia, initial encounter for open fracture type I or II
+  S82136C Nondisplaced fracture of medial condyle of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82141A Displaced bicondylar fracture of right tibia, initial encounter for closed fracture
+  S82141B Displaced bicondylar fracture of right tibia, initial encounter for open fracture type I or II
+  S82141C Displaced bicondylar fracture of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82142A Displaced bicondylar fracture of left tibia, initial encounter for closed fracture
+  S82142B Displaced bicondylar fracture of left tibia, initial encounter for open fracture type I or II
+  S82142C Displaced bicondylar fracture of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82143A Displaced bicondylar fracture of unspecified tibia, initial encounter for closed fracture
+  S82143B Displaced bicondylar fracture of unspecified tibia, initial encounter for open fracture type I or II
+  S82143C Displaced bicondylar fracture of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82144A Nondisplaced bicondylar fracture of right tibia, initial encounter for closed fracture
+  S82144B Nondisplaced bicondylar fracture of right tibia, initial encounter for open fracture type I or II
+  S82144C Nondisplaced bicondylar fracture of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82145A Nondisplaced bicondylar fracture of left tibia, initial encounter for closed fracture
+  S82145B Nondisplaced bicondylar fracture of left tibia, initial encounter for open fracture type I or II
+  S82145C Nondisplaced bicondylar fracture of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82146A Nondisplaced bicondylar fracture of unspecified tibia, initial encounter for closed fracture
+  S82146B Nondisplaced bicondylar fracture of unspecified tibia, initial encounter for open fracture type I or II
+  S82146C Nondisplaced bicondylar fracture of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82151A Displaced fracture of right tibial tuberosity, initial encounter for closed fracture
+  S82151B Displaced fracture of right tibial tuberosity, initial encounter for open fracture type I or II
+  S82151C Displaced fracture of right tibial tuberosity, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82152A Displaced fracture of left tibial tuberosity, initial encounter for closed fracture
+  S82152B Displaced fracture of left tibial tuberosity, initial encounter for open fracture type I or II
+  S82152C Displaced fracture of left tibial tuberosity, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82153A Displaced fracture of unspecified tibial tuberosity, initial encounter for closed fracture
+  S82153B Displaced fracture of unspecified tibial tuberosity, initial encounter for open fracture type I or II
+  S82153C Displaced fracture of unspecified tibial tuberosity, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82154A Nondisplaced fracture of right tibial tuberosity, initial encounter for closed fracture
+  S82154B Nondisplaced fracture of right tibial tuberosity, initial encounter for open fracture type I or II
+  S82154C Nondisplaced fracture of right tibial tuberosity, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82155A Nondisplaced fracture of left tibial tuberosity, initial encounter for closed fracture
+  S82155B Nondisplaced fracture of left tibial tuberosity, initial encounter for open fracture type I or II
+  S82155C Nondisplaced fracture of left tibial tuberosity, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82156A Nondisplaced fracture of unspecified tibial tuberosity, initial encounter for closed fracture
+  S82156B Nondisplaced fracture of unspecified tibial tuberosity, initial encounter for open fracture type I or II
+  S82156C Nondisplaced fracture of unspecified tibial tuberosity, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82191A Other fracture of upper end of right tibia, initial encounter for closed fracture
+  S82191B Other fracture of upper end of right tibia, initial encounter for open fracture type I or II
+  S82191C Other fracture of upper end of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82192A Other fracture of upper end of left tibia, initial encounter for closed fracture
+  S82192B Other fracture of upper end of left tibia, initial encounter for open fracture type I or II
+  S82192C Other fracture of upper end of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82199A Other fracture of upper end of unspecified tibia, initial encounter for closed fracture
+  S82199B Other fracture of upper end of unspecified tibia, initial encounter for open fracture type I or II
+  S82199C Other fracture of upper end of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82201A Unspecified fracture of shaft of right tibia, initial encounter for closed fracture
+  S82201B Unspecified fracture of shaft of right tibia, initial encounter for open fracture type I or II
+  S82201C Unspecified fracture of shaft of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82202A Unspecified fracture of shaft of left tibia, initial encounter for closed fracture
+  S82202B Unspecified fracture of shaft of left tibia, initial encounter for open fracture type I or II
+  S82202C Unspecified fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82209A Unspecified fracture of shaft of unspecified tibia, initial encounter for closed fracture
+  S82209B Unspecified fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II
+  S82209C Unspecified fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82221A Displaced transverse fracture of shaft of right tibia, initial encounter for closed fracture
+  S82221B Displaced transverse fracture of shaft of right tibia, initial encounter for open fracture type I or II
+  S82221C Displaced transverse fracture of shaft of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82222A Displaced transverse fracture of shaft of left tibia, initial encounter for closed fracture
+  S82222B Displaced transverse fracture of shaft of left tibia, initial encounter for open fracture type I or II
+  S82222C Displaced transverse fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82223A Displaced transverse fracture of shaft of unspecified tibia, initial encounter for closed fracture
+  S82223B Displaced transverse fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II
+  S82223C Displaced transverse fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82224A Nondisplaced transverse fracture of shaft of right tibia, initial encounter for closed fracture
+  S82224B Nondisplaced transverse fracture of shaft of right tibia, initial encounter for open fracture type I or II
+  S82224C Nondisplaced transverse fracture of shaft of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82225A Nondisplaced transverse fracture of shaft of left tibia, initial encounter for closed fracture
+  S82225B Nondisplaced transverse fracture of shaft of left tibia, initial encounter for open fracture type I or II
+  S82225C Nondisplaced transverse fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82226A Nondisplaced transverse fracture of shaft of unspecified tibia, initial encounter for closed fracture
+  S82226B Nondisplaced transverse fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II
+  S82226C Nondisplaced transverse fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82231A Displaced oblique fracture of shaft of right tibia, initial encounter for closed fracture
+  S82231B Displaced oblique fracture of shaft of right tibia, initial encounter for open fracture type I or II
+  S82231C Displaced oblique fracture of shaft of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82232A Displaced oblique fracture of shaft of left tibia, initial encounter for closed fracture
+  S82232B Displaced oblique fracture of shaft of left tibia, initial encounter for open fracture type I or II
+  S82232C Displaced oblique fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82233A Displaced oblique fracture of shaft of unspecified tibia, initial encounter for closed fracture
+  S82233B Displaced oblique fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II
+  S82233C Displaced oblique fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82234A Nondisplaced oblique fracture of shaft of right tibia, initial encounter for closed fracture
+  S82234B Nondisplaced oblique fracture of shaft of right tibia, initial encounter for open fracture type I or II
+  S82234C Nondisplaced oblique fracture of shaft of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82235A Nondisplaced oblique fracture of shaft of left tibia, initial encounter for closed fracture
+  S82235B Nondisplaced oblique fracture of shaft of left tibia, initial encounter for open fracture type I or II
+  S82235C Nondisplaced oblique fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82236A Nondisplaced oblique fracture of shaft of unspecified tibia, initial encounter for closed fracture
+  S82236B Nondisplaced oblique fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II
+  S82236C Nondisplaced oblique fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82241A Displaced spiral fracture of shaft of right tibia, initial encounter for closed fracture
+  S82241B Displaced spiral fracture of shaft of right tibia, initial encounter for open fracture type I or II
+  S82241C Displaced spiral fracture of shaft of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82242A Displaced spiral fracture of shaft of left tibia, initial encounter for closed fracture
+  S82242B Displaced spiral fracture of shaft of left tibia, initial encounter for open fracture type I or II
+  S82242C Displaced spiral fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82243A Displaced spiral fracture of shaft of unspecified tibia, initial encounter for closed fracture
+  S82243B Displaced spiral fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II
+  S82243C Displaced spiral fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82244A Nondisplaced spiral fracture of shaft of right tibia, initial encounter for closed fracture
+  S82244B Nondisplaced spiral fracture of shaft of right tibia, initial encounter for open fracture type I or II
+  S82244C Nondisplaced spiral fracture of shaft of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82245A Nondisplaced spiral fracture of shaft of left tibia, initial encounter for closed fracture
+  S82245B Nondisplaced spiral fracture of shaft of left tibia, initial encounter for open fracture type I or II
+  S82245C Nondisplaced spiral fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82246A Nondisplaced spiral fracture of shaft of unspecified tibia, initial encounter for closed fracture
+  S82246B Nondisplaced spiral fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II
+  S82246C Nondisplaced spiral fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82251A Displaced comminuted fracture of shaft of right tibia, initial encounter for closed fracture
+  S82251B Displaced comminuted fracture of shaft of right tibia, initial encounter for open fracture type I or II
+  S82251C Displaced comminuted fracture of shaft of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82252A Displaced comminuted fracture of shaft of left tibia, initial encounter for closed fracture
+  S82252B Displaced comminuted fracture of shaft of left tibia, initial encounter for open fracture type I or II
+  S82252C Displaced comminuted fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82253A Displaced comminuted fracture of shaft of unspecified tibia, initial encounter for closed fracture
+  S82253B Displaced comminuted fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II
+  S82253C Displaced comminuted fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82254A Nondisplaced comminuted fracture of shaft of right tibia, initial encounter for closed fracture
+  S82254B Nondisplaced comminuted fracture of shaft of right tibia, initial encounter for open fracture type I or II
+  S82254C Nondisplaced comminuted fracture of shaft of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82255A Nondisplaced comminuted fracture of shaft of left tibia, initial encounter for closed fracture
+  S82255B Nondisplaced comminuted fracture of shaft of left tibia, initial encounter for open fracture type I or II
+  S82255C Nondisplaced comminuted fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82256A Nondisplaced comminuted fracture of shaft of unspecified tibia, initial encounter for closed fracture
+  S82256B Nondisplaced comminuted fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II
+  S82256C Nondisplaced comminuted fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82261A Displaced segmental fracture of shaft of right tibia, initial encounter for closed fracture
+  S82261B Displaced segmental fracture of shaft of right tibia, initial encounter for open fracture type I or II
+  S82261C Displaced segmental fracture of shaft of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82262A Displaced segmental fracture of shaft of left tibia, initial encounter for closed fracture
+  S82262B Displaced segmental fracture of shaft of left tibia, initial encounter for open fracture type I or II
+  S82262C Displaced segmental fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82263A Displaced segmental fracture of shaft of unspecified tibia, initial encounter for closed fracture
+  S82263B Displaced segmental fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II
+  S82263C Displaced segmental fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82264A Nondisplaced segmental fracture of shaft of right tibia, initial encounter for closed fracture
+  S82264B Nondisplaced segmental fracture of shaft of right tibia, initial encounter for open fracture type I or II
+  S82264C Nondisplaced segmental fracture of shaft of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82265A Nondisplaced segmental fracture of shaft of left tibia, initial encounter for closed fracture
+  S82265B Nondisplaced segmental fracture of shaft of left tibia, initial encounter for open fracture type I or II
+  S82265C Nondisplaced segmental fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82266A Nondisplaced segmental fracture of shaft of unspecified tibia, initial encounter for closed fracture
+  S82266B Nondisplaced segmental fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II
+  S82266C Nondisplaced segmental fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82291A Other fracture of shaft of right tibia, initial encounter for closed fracture
+  S82291B Other fracture of shaft of right tibia, initial encounter for open fracture type I or II
+  S82291C Other fracture of shaft of right tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82292A Other fracture of shaft of left tibia, initial encounter for closed fracture
+  S82292B Other fracture of shaft of left tibia, initial encounter for open fracture type I or II
+  S82292C Other fracture of shaft of left tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82299A Other fracture of shaft of unspecified tibia, initial encounter for closed fracture
+  S82299B Other fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II
+  S82299C Other fracture of shaft of unspecified tibia, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82401A Unspecified fracture of shaft of right fibula, initial encounter for closed fracture
+  S82401B Unspecified fracture of shaft of right fibula, initial encounter for open fracture type I or II
+  S82401C Unspecified fracture of shaft of right fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82402A Unspecified fracture of shaft of left fibula, initial encounter for closed fracture
+  S82402B Unspecified fracture of shaft of left fibula, initial encounter for open fracture type I or II
+  S82402C Unspecified fracture of shaft of left fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82409A Unspecified fracture of shaft of unspecified fibula, initial encounter for closed fracture
+  S82409B Unspecified fracture of shaft of unspecified fibula, initial encounter for open fracture type I or II
+  S82409C Unspecified fracture of shaft of unspecified fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82421A Displaced transverse fracture of shaft of right fibula, initial encounter for closed fracture
+  S82421B Displaced transverse fracture of shaft of right fibula, initial encounter for open fracture type I or II
+  S82421C Displaced transverse fracture of shaft of right fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82422A Displaced transverse fracture of shaft of left fibula, initial encounter for closed fracture
+  S82422B Displaced transverse fracture of shaft of left fibula, initial encounter for open fracture type I or II
+  S82422C Displaced transverse fracture of shaft of left fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82423A Displaced transverse fracture of shaft of unspecified fibula, initial encounter for closed fracture
+  S82423B Displaced transverse fracture of shaft of unspecified fibula, initial encounter for open fracture type I or II
+  S82423C Displaced transverse fracture of shaft of unspecified fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82424A Nondisplaced transverse fracture of shaft of right fibula, initial encounter for closed fracture
+  S82424B Nondisplaced transverse fracture of shaft of right fibula, initial encounter for open fracture type I or II
+  S82424C Nondisplaced transverse fracture of shaft of right fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82425A Nondisplaced transverse fracture of shaft of left fibula, initial encounter for closed fracture
+  S82425B Nondisplaced transverse fracture of shaft of left fibula, initial encounter for open fracture type I or II
+  S82425C Nondisplaced transverse fracture of shaft of left fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82426A Nondisplaced transverse fracture of shaft of unspecified fibula, initial encounter for closed fracture
+  S82426B Nondisplaced transverse fracture of shaft of unspecified fibula, initial encounter for open fracture type I or II
+  S82426C Nondisplaced transverse fracture of shaft of unspecified fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82431A Displaced oblique fracture of shaft of right fibula, initial encounter for closed fracture
+  S82431B Displaced oblique fracture of shaft of right fibula, initial encounter for open fracture type I or II
+  S82431C Displaced oblique fracture of shaft of right fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82432A Displaced oblique fracture of shaft of left fibula, initial encounter for closed fracture
+  S82432B Displaced oblique fracture of shaft of left fibula, initial encounter for open fracture type I or II
+  S82432C Displaced oblique fracture of shaft of left fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82433A Displaced oblique fracture of shaft of unspecified fibula, initial encounter for closed fracture
+  S82433B Displaced oblique fracture of shaft of unspecified fibula, initial encounter for open fracture type I or II
+  S82433C Displaced oblique fracture of shaft of unspecified fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82434A Nondisplaced oblique fracture of shaft of right fibula, initial encounter for closed fracture
+  S82434B Nondisplaced oblique fracture of shaft of right fibula, initial encounter for open fracture type I or II
+  S82434C Nondisplaced oblique fracture of shaft of right fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82435A Nondisplaced oblique fracture of shaft of left fibula, initial encounter for closed fracture
+  S82435B Nondisplaced oblique fracture of shaft of left fibula, initial encounter for open fracture type I or II
+  S82435C Nondisplaced oblique fracture of shaft of left fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82436A Nondisplaced oblique fracture of shaft of unspecified fibula, initial encounter for closed fracture
+  S82436B Nondisplaced oblique fracture of shaft of unspecified fibula, initial encounter for open fracture type I or II
+  S82436C Nondisplaced oblique fracture of shaft of unspecified fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82441A Displaced spiral fracture of shaft of right fibula, initial encounter for closed fracture
+  S82441B Displaced spiral fracture of shaft of right fibula, initial encounter for open fracture type I or II
+  S82441C Displaced spiral fracture of shaft of right fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82442A Displaced spiral fracture of shaft of left fibula, initial encounter for closed fracture
+  S82442B Displaced spiral fracture of shaft of left fibula, initial encounter for open fracture type I or II
+  S82442C Displaced spiral fracture of shaft of left fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82443A Displaced spiral fracture of shaft of unspecified fibula, initial encounter for closed fracture
+  S82443B Displaced spiral fracture of shaft of unspecified fibula, initial encounter for open fracture type I or II
+  S82443C Displaced spiral fracture of shaft of unspecified fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82444A Nondisplaced spiral fracture of shaft of right fibula, initial encounter for closed fracture
+  S82444B Nondisplaced spiral fracture of shaft of right fibula, initial encounter for open fracture type I or II
+  S82444C Nondisplaced spiral fracture of shaft of right fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82445A Nondisplaced spiral fracture of shaft of left fibula, initial encounter for closed fracture
+  S82445B Nondisplaced spiral fracture of shaft of left fibula, initial encounter for open fracture type I or II
+  S82445C Nondisplaced spiral fracture of shaft of left fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82446A Nondisplaced spiral fracture of shaft of unspecified fibula, initial encounter for closed fracture
+  S82446B Nondisplaced spiral fracture of shaft of unspecified fibula, initial encounter for open fracture type I or II
+  S82446C Nondisplaced spiral fracture of shaft of unspecified fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82451A Displaced comminuted fracture of shaft of right fibula, initial encounter for closed fracture
+  S82451B Displaced comminuted fracture of shaft of right fibula, initial encounter for open fracture type I or II
+  S82451C Displaced comminuted fracture of shaft of right fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82452A Displaced comminuted fracture of shaft of left fibula, initial encounter for closed fracture
+  S82452B Displaced comminuted fracture of shaft of left fibula, initial encounter for open fracture type I or II
+  S82452C Displaced comminuted fracture of shaft of left fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC
+  S82453A Displaced comminuted fracture of shaft of unspecified fibula, initial encounter for closed fracture
+  S82453B Displaced comminuted fracture of shaft of unspecified fibula, initial encou
