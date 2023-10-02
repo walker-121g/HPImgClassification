@@ -5,7 +5,7 @@ using DeerClassification.Models;
 string folder = Path.Combine(Environment.CurrentDirectory, "./Assets");
 string imageFolder = Path.Combine(folder, "Training");
 string modelFile = Path.Combine(folder, "model.pb");
-string trainingFile = Path.Combine(folder, "temp.tsv");
+string trainingFile = Path.Combine(folder, "training.tsv");
 string testingFile = Path.Combine(folder, "test.tsv");
 
 MLContext context = new MLContext();
