@@ -9,12 +9,14 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="Keras.NET" Version="3.8.5" />
       <PackageReference Include="Microsoft.ML" Version="3.0.0-preview.23266.6" />
       <PackageReference Include="Microsoft.ML.ImageAnalytics" Version="2.0.1" />
       <PackageReference Include="Microsoft.ML.TensorFlow" Version="3.0.0-preview.23266.6" />
       <PackageReference Include="SciSharp.TensorFlow.Redist" Version="2.11.4" />
       <PackageReference Include="SciSharp.TensorFlow.Redist-Linux-GPU" Version="2.11.1" />
       <PackageReference Include="SciSharp.TensorFlow.Redist-OSX" Version="2.11.4" />
+      <PackageReference Include="TensorFlow.Keras" Version="0.11.4" />
     </ItemGroup>
 
 </Project>

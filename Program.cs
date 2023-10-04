@@ -1,10 +1,11 @@
 ﻿using Microsoft.ML;
 using Microsoft.ML.Data;
 using DeerClassification.Models;
+using Tensorflow;
 
 string folder = Path.Combine(Environment.CurrentDirectory, "./Assets");
 string imageFolder = Path.Combine(folder, "Training");
-string modelFile = Path.Combine(folder, "tf_model.h5");
+string modelFile = Path.Combine(folder, "saved_model.pb");
 string trainingFile = Path.Combine(folder, "training.tsv");
 string testingFile = Path.Combine(folder, "test.tsv");
 
