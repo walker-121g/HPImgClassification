@@ -23,7 +23,7 @@ void ClassifyImage(MLContext mlContext, ITransformer model)
 {
     ImageData image = new ImageData()
     {
-        ImagePath = Path.Combine(imageFolder, "2021-10-26_8_58_38-HuntPro.png")
+        ImagePath = Path.Combine(imageFolder, "2021-10-27_9_49_14-HuntPro.png")
     };
 
     PredictionEngine<ImageData, ImagePrediction> engine = mlContext.Model.CreatePredictionEngine<ImageData, ImagePrediction>(model);
